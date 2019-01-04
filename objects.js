@@ -1,3 +1,4 @@
 var playlist = {
   'SOPHIE': 'Immaterial',
-  'The New Pornographers': ''
+  'Yuck': 'The Wall',
+  
