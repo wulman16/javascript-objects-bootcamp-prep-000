@@ -1,6 +1,6 @@
 var playlist = {
   'SOPHIE': 'Immaterial',
-  'Yuck': 'The Wall',
+  'Kanye West': 'Send It Up',
   'Carly Rae Jepsen': 'I Didn\'t Just Come Here to Dance'
 }
 
